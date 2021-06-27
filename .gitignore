@@ -1,0 +1,5 @@
+#Ignore Mac system file
+.DS_store
+
+#Ignore vagrant environments
+.vagrant

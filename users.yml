@@ -1,0 +1,21 @@
+---
+- users:
+  - name: "jross"
+    comment: "James Ross"
+    role: "admin"
+    key-present: yes
+    key: "./keys/james_id_rsa.pub"
+
+  - name: "jdoe"
+    comment: "Jane Doe"
+    role: "developer"
+    key-present: True
+    key: "./keys/jane_id_rsa.pub"
+
+  - name: "tejashreecd"
+    comment: "Tejashree Dhavalikar"
+    role: "admin"
+    key-present: False
+    
+    
+
