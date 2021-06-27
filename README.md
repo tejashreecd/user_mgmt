@@ -30,7 +30,7 @@ grep '^<group_name>:' /etc/group
 
 2. Check the permissions, restrictions by logging in as the created user.
 ```bash
-ssh -i <user_private_key> <username>@<app/db-hostname>
+ssh -i '<user_private_key>' '<username>'@'<app/db-hostname>'
 ```
 
 ## License
